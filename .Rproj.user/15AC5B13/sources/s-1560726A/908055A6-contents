@@ -1,0 +1,6 @@
+menu(mtcars$mpg)
+mtcars
+
+df <- mtcars
+mean(mtcars$mpg)
+

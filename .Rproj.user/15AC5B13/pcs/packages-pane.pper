@@ -1,0 +1,7 @@
+{
+    "installOptions" : {
+        "installDependencies" : true,
+        "installFromRepository" : true,
+        "libraryPath" : "C:/Users/iqbalja7/OneDrive - Novartis Pharma AG/R/win-library/3.5"
+    }
+}

@@ -1,0 +1,19 @@
+example <- matrix(c(1,2,3,4,5,6,7,8),nrow = 4, ncol = 2)
+?iris
+iris
+df <- installed.packages()
+df1 <- library()
+library(haven)
+?haven
+version
+install.packages("haven")
+library(haven)
+detach("package:haven", unload = T)
+remove.packages("haven")
+install.packages("haven")
+library("haven")
+sessionInfo()
+help(package = "haven")
+browseVignettes("haven")
+install.packages("KernSmooth")
+library(KernSmooth)
